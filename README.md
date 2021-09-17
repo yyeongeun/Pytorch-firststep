@@ -3,6 +3,7 @@
 
 ### 1. Book
 최건호, 파이토치 첫걸음, 한빛미디어, 2019
+
 <img src="https://user-images.githubusercontent.com/70632327/133706539-c1212929-617f-4a77-881f-81f819c3de26.jpg  width="200" height="400"/>
 
 
